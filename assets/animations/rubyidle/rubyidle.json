@@ -1,0 +1,545 @@
+{
+	"textures": [
+		{
+			"image": "rubyidle-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 864,
+				"h": 1007
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "RUBINO_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 172,
+						"h": 200
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 172,
+						"h": 200
+					}
+				},
+				{
+					"filename": "RUBINO_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 172,
+						"h": 200
+					},
+					"frame": {
+						"x": 1,
+						"y": 203,
+						"w": 172,
+						"h": 200
+					}
+				},
+				{
+					"filename": "RUBINO_00013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 172,
+						"h": 200
+					},
+					"frame": {
+						"x": 175,
+						"y": 1,
+						"w": 172,
+						"h": 200
+					}
+				},
+				{
+					"filename": "RUBINO_00014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 172,
+						"h": 200
+					},
+					"frame": {
+						"x": 1,
+						"y": 405,
+						"w": 172,
+						"h": 200
+					}
+				},
+				{
+					"filename": "RUBINO_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 171,
+						"h": 200
+					},
+					"frame": {
+						"x": 175,
+						"y": 203,
+						"w": 171,
+						"h": 200
+					}
+				},
+				{
+					"filename": "RUBINO_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 171,
+						"h": 200
+					},
+					"frame": {
+						"x": 349,
+						"y": 1,
+						"w": 171,
+						"h": 200
+					}
+				},
+				{
+					"filename": "RUBINO_00005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 171,
+						"h": 200
+					},
+					"frame": {
+						"x": 1,
+						"y": 607,
+						"w": 171,
+						"h": 200
+					}
+				},
+				{
+					"filename": "RUBINO_00010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 170,
+						"h": 197
+					},
+					"frame": {
+						"x": 1,
+						"y": 809,
+						"w": 170,
+						"h": 197
+					}
+				},
+				{
+					"filename": "RUBINO_00006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 171,
+						"h": 200
+					},
+					"frame": {
+						"x": 175,
+						"y": 405,
+						"w": 171,
+						"h": 200
+					}
+				},
+				{
+					"filename": "RUBINO_00015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 171,
+						"h": 200
+					},
+					"frame": {
+						"x": 348,
+						"y": 203,
+						"w": 171,
+						"h": 200
+					}
+				},
+				{
+					"filename": "RUBINO_00016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 171,
+						"h": 200
+					},
+					"frame": {
+						"x": 522,
+						"y": 1,
+						"w": 171,
+						"h": 200
+					}
+				},
+				{
+					"filename": "RUBINO_00008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 171,
+						"h": 199
+					},
+					"frame": {
+						"x": 174,
+						"y": 607,
+						"w": 171,
+						"h": 199
+					}
+				},
+				{
+					"filename": "RUBINO_00018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 171,
+						"h": 199
+					},
+					"frame": {
+						"x": 348,
+						"y": 405,
+						"w": 171,
+						"h": 199
+					}
+				},
+				{
+					"filename": "RUBINO_00007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 170,
+						"h": 199
+					},
+					"frame": {
+						"x": 521,
+						"y": 203,
+						"w": 170,
+						"h": 199
+					}
+				},
+				{
+					"filename": "RUBINO_00011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 170,
+						"h": 199
+					},
+					"frame": {
+						"x": 693,
+						"y": 203,
+						"w": 170,
+						"h": 199
+					}
+				},
+				{
+					"filename": "RUBINO_00012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 170,
+						"h": 199
+					},
+					"frame": {
+						"x": 521,
+						"y": 404,
+						"w": 170,
+						"h": 199
+					}
+				},
+				{
+					"filename": "RUBINO_00017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 170,
+						"h": 199
+					},
+					"frame": {
+						"x": 693,
+						"y": 404,
+						"w": 170,
+						"h": 199
+					}
+				},
+				{
+					"filename": "RUBINO_00020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 170,
+						"h": 197
+					},
+					"frame": {
+						"x": 173,
+						"y": 809,
+						"w": 170,
+						"h": 197
+					}
+				},
+				{
+					"filename": "RUBINO_00009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 171,
+						"h": 198
+					},
+					"frame": {
+						"x": 345,
+						"y": 808,
+						"w": 171,
+						"h": 198
+					}
+				},
+				{
+					"filename": "RUBINO_00023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 170,
+						"h": 199
+					},
+					"frame": {
+						"x": 347,
+						"y": 607,
+						"w": 170,
+						"h": 199
+					}
+				},
+				{
+					"filename": "RUBINO_00019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 171,
+						"h": 198
+					},
+					"frame": {
+						"x": 518,
+						"y": 808,
+						"w": 171,
+						"h": 198
+					}
+				},
+				{
+					"filename": "RUBINO_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 170,
+						"h": 198
+					},
+					"frame": {
+						"x": 519,
+						"y": 606,
+						"w": 170,
+						"h": 198
+					}
+				},
+				{
+					"filename": "RUBINO_00024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 170,
+						"h": 198
+					},
+					"frame": {
+						"x": 519,
+						"y": 606,
+						"w": 170,
+						"h": 198
+					}
+				},
+				{
+					"filename": "RUBINO_00021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 170,
+						"h": 198
+					},
+					"frame": {
+						"x": 691,
+						"y": 605,
+						"w": 170,
+						"h": 198
+					}
+				},
+				{
+					"filename": "RUBINO_00022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 170,
+						"h": 198
+					},
+					"frame": {
+						"x": 691,
+						"y": 805,
+						"w": 170,
+						"h": 198
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cb6d7c83548b355ffe6dfeaf4401e435:da008cd00335ca017bac4883ed5d3a37:e4334d2e89ac5cd329dbf198acbff6cb$"
+	}
+}

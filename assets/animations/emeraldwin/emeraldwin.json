@@ -1,0 +1,797 @@
+{
+	"textures": [
+		{
+			"image": "emeraldwin-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 874,
+				"h": 1706
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "emerald win_00036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 12,
+						"w": 174,
+						"h": 229
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 174,
+						"h": 229
+					}
+				},
+				{
+					"filename": "emerald win_00037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 174,
+						"h": 229
+					},
+					"frame": {
+						"x": 1,
+						"y": 232,
+						"w": 174,
+						"h": 229
+					}
+				},
+				{
+					"filename": "emerald win_00038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 174,
+						"h": 229
+					},
+					"frame": {
+						"x": 177,
+						"y": 1,
+						"w": 174,
+						"h": 229
+					}
+				},
+				{
+					"filename": "emerald win_00039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 174,
+						"h": 229
+					},
+					"frame": {
+						"x": 1,
+						"y": 463,
+						"w": 174,
+						"h": 229
+					}
+				},
+				{
+					"filename": "emerald win_00040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 174,
+						"h": 229
+					},
+					"frame": {
+						"x": 177,
+						"y": 232,
+						"w": 174,
+						"h": 229
+					}
+				},
+				{
+					"filename": "emerald win_00041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 174,
+						"h": 229
+					},
+					"frame": {
+						"x": 353,
+						"y": 1,
+						"w": 174,
+						"h": 229
+					}
+				},
+				{
+					"filename": "emerald win_00042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 174,
+						"h": 229
+					},
+					"frame": {
+						"x": 1,
+						"y": 694,
+						"w": 174,
+						"h": 229
+					}
+				},
+				{
+					"filename": "emerald win_00043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 174,
+						"h": 229
+					},
+					"frame": {
+						"x": 177,
+						"y": 463,
+						"w": 174,
+						"h": 229
+					}
+				},
+				{
+					"filename": "emerald win_00044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 174,
+						"h": 229
+					},
+					"frame": {
+						"x": 353,
+						"y": 232,
+						"w": 174,
+						"h": 229
+					}
+				},
+				{
+					"filename": "emerald win_00035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 13,
+						"w": 172,
+						"h": 228
+					},
+					"frame": {
+						"x": 529,
+						"y": 1,
+						"w": 172,
+						"h": 228
+					}
+				},
+				{
+					"filename": "emerald win_00029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 17,
+						"w": 170,
+						"h": 225
+					},
+					"frame": {
+						"x": 703,
+						"y": 1,
+						"w": 170,
+						"h": 225
+					}
+				},
+				{
+					"filename": "emerald win_00032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 15,
+						"w": 172,
+						"h": 227
+					},
+					"frame": {
+						"x": 1,
+						"y": 925,
+						"w": 172,
+						"h": 227
+					}
+				},
+				{
+					"filename": "emerald win_00033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 14,
+						"w": 172,
+						"h": 227
+					},
+					"frame": {
+						"x": 177,
+						"y": 694,
+						"w": 172,
+						"h": 227
+					}
+				},
+				{
+					"filename": "emerald win_00034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 14,
+						"w": 172,
+						"h": 227
+					},
+					"frame": {
+						"x": 353,
+						"y": 463,
+						"w": 172,
+						"h": 227
+					}
+				},
+				{
+					"filename": "emerald win_00031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 16,
+						"w": 172,
+						"h": 226
+					},
+					"frame": {
+						"x": 529,
+						"y": 231,
+						"w": 172,
+						"h": 226
+					}
+				},
+				{
+					"filename": "emerald win_00028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 19,
+						"w": 170,
+						"h": 224
+					},
+					"frame": {
+						"x": 703,
+						"y": 228,
+						"w": 170,
+						"h": 224
+					}
+				},
+				{
+					"filename": "emerald win_00030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 16,
+						"w": 171,
+						"h": 226
+					},
+					"frame": {
+						"x": 1,
+						"y": 1154,
+						"w": 171,
+						"h": 226
+					}
+				},
+				{
+					"filename": "emerald win_00027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 30,
+						"w": 170,
+						"h": 213
+					},
+					"frame": {
+						"x": 703,
+						"y": 454,
+						"w": 170,
+						"h": 213
+					}
+				},
+				{
+					"filename": "emerald win_00045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 33,
+						"w": 174,
+						"h": 207
+					},
+					"frame": {
+						"x": 527,
+						"y": 463,
+						"w": 174,
+						"h": 207
+					}
+				},
+				{
+					"filename": "emerald win_00046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 33,
+						"w": 174,
+						"h": 207
+					},
+					"frame": {
+						"x": 1,
+						"y": 1382,
+						"w": 174,
+						"h": 207
+					}
+				},
+				{
+					"filename": "emerald win_00058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 40,
+						"w": 170,
+						"h": 202
+					},
+					"frame": {
+						"x": 703,
+						"y": 669,
+						"w": 170,
+						"h": 202
+					}
+				},
+				{
+					"filename": "emerald win_00047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 33,
+						"w": 174,
+						"h": 207
+					},
+					"frame": {
+						"x": 527,
+						"y": 672,
+						"w": 174,
+						"h": 207
+					}
+				},
+				{
+					"filename": "emerald win_00048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 33,
+						"w": 174,
+						"h": 207
+					},
+					"frame": {
+						"x": 351,
+						"y": 694,
+						"w": 174,
+						"h": 207
+					}
+				},
+				{
+					"filename": "emerald win_00026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 42,
+						"w": 170,
+						"h": 201
+					},
+					"frame": {
+						"x": 703,
+						"y": 873,
+						"w": 170,
+						"h": 201
+					}
+				},
+				{
+					"filename": "emerald win_00049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 33,
+						"w": 174,
+						"h": 207
+					},
+					"frame": {
+						"x": 527,
+						"y": 881,
+						"w": 174,
+						"h": 207
+					}
+				},
+				{
+					"filename": "emerald win_00059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 43,
+						"w": 170,
+						"h": 200
+					},
+					"frame": {
+						"x": 703,
+						"y": 1076,
+						"w": 170,
+						"h": 200
+					}
+				},
+				{
+					"filename": "emerald win_00050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 33,
+						"w": 174,
+						"h": 207
+					},
+					"frame": {
+						"x": 351,
+						"y": 903,
+						"w": 174,
+						"h": 207
+					}
+				},
+				{
+					"filename": "emerald win_00051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 33,
+						"w": 174,
+						"h": 207
+					},
+					"frame": {
+						"x": 175,
+						"y": 925,
+						"w": 174,
+						"h": 207
+					}
+				},
+				{
+					"filename": "emerald win_00052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 33,
+						"w": 174,
+						"h": 207
+					},
+					"frame": {
+						"x": 527,
+						"y": 1090,
+						"w": 174,
+						"h": 207
+					}
+				},
+				{
+					"filename": "emerald win_00025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 45,
+						"w": 170,
+						"h": 198
+					},
+					"frame": {
+						"x": 703,
+						"y": 1278,
+						"w": 170,
+						"h": 198
+					}
+				},
+				{
+					"filename": "emerald win_00053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 33,
+						"w": 174,
+						"h": 207
+					},
+					"frame": {
+						"x": 351,
+						"y": 1112,
+						"w": 174,
+						"h": 207
+					}
+				},
+				{
+					"filename": "emerald win_00054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 33,
+						"w": 174,
+						"h": 207
+					},
+					"frame": {
+						"x": 175,
+						"y": 1134,
+						"w": 174,
+						"h": 207
+					}
+				},
+				{
+					"filename": "emerald win_00055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 33,
+						"w": 174,
+						"h": 207
+					},
+					"frame": {
+						"x": 527,
+						"y": 1299,
+						"w": 174,
+						"h": 207
+					}
+				},
+				{
+					"filename": "emerald win_00056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 35,
+						"w": 172,
+						"h": 206
+					},
+					"frame": {
+						"x": 177,
+						"y": 1343,
+						"w": 172,
+						"h": 206
+					}
+				},
+				{
+					"filename": "emerald win_00057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 38,
+						"w": 172,
+						"h": 204
+					},
+					"frame": {
+						"x": 351,
+						"y": 1321,
+						"w": 172,
+						"h": 204
+					}
+				},
+				{
+					"filename": "emerald win_00024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 46,
+						"w": 168,
+						"h": 197
+					},
+					"frame": {
+						"x": 703,
+						"y": 1478,
+						"w": 168,
+						"h": 197
+					}
+				},
+				{
+					"filename": "emerald win_00060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 46,
+						"w": 168,
+						"h": 197
+					},
+					"frame": {
+						"x": 525,
+						"y": 1508,
+						"w": 168,
+						"h": 197
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:908362c0d26748b4dc6f0de1636a65ec:2de8968fce9bf853155ce37108e97811:4d06ac23d31764126929e9bc68be1102$"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "font-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1932,
+				"h": 252
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "FONT  JPARADE.psd",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1930,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1930,
+						"h": 250
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1930,
+						"h": 250
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:49487e2dd2c3d67c14b70a1cc82939e2:c9d64283f7d3d05d50f94c3a8500d423:d9f3052fa9f425b9e9d33413f52bc0e3$"
+	}
+}

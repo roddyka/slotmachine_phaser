@@ -1,0 +1,545 @@
+{
+	"textures": [
+		{
+			"image": "emeraldidle-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 872,
+				"h": 996
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "SMERALDO_00006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 180,
+						"h": 200
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 180,
+						"h": 200
+					}
+				},
+				{
+					"filename": "SMERALDO_00016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 180,
+						"h": 200
+					},
+					"frame": {
+						"x": 1,
+						"y": 203,
+						"w": 180,
+						"h": 200
+					}
+				},
+				{
+					"filename": "SMERALDO_00005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 178,
+						"h": 200
+					},
+					"frame": {
+						"x": 1,
+						"y": 405,
+						"w": 178,
+						"h": 200
+					}
+				},
+				{
+					"filename": "SMERALDO_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 176,
+						"h": 200
+					},
+					"frame": {
+						"x": 181,
+						"y": 405,
+						"w": 176,
+						"h": 200
+					}
+				},
+				{
+					"filename": "SMERALDO_00015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 176,
+						"h": 200
+					},
+					"frame": {
+						"x": 183,
+						"y": 1,
+						"w": 176,
+						"h": 200
+					}
+				},
+				{
+					"filename": "SMERALDO_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 174,
+						"h": 200
+					},
+					"frame": {
+						"x": 183,
+						"y": 203,
+						"w": 174,
+						"h": 200
+					}
+				},
+				{
+					"filename": "SMERALDO_00007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 174,
+						"h": 200
+					},
+					"frame": {
+						"x": 359,
+						"y": 203,
+						"w": 174,
+						"h": 200
+					}
+				},
+				{
+					"filename": "SMERALDO_00017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 174,
+						"h": 200
+					},
+					"frame": {
+						"x": 361,
+						"y": 1,
+						"w": 174,
+						"h": 200
+					}
+				},
+				{
+					"filename": "SMERALDO_00014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 172,
+						"h": 200
+					},
+					"frame": {
+						"x": 359,
+						"y": 405,
+						"w": 172,
+						"h": 200
+					}
+				},
+				{
+					"filename": "SMERALDO_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 1,
+						"w": 172,
+						"h": 199
+					},
+					"frame": {
+						"x": 533,
+						"y": 405,
+						"w": 172,
+						"h": 199
+					}
+				},
+				{
+					"filename": "SMERALDO_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 2,
+						"w": 170,
+						"h": 198
+					},
+					"frame": {
+						"x": 535,
+						"y": 203,
+						"w": 170,
+						"h": 198
+					}
+				},
+				{
+					"filename": "SMERALDO_00008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 2,
+						"w": 168,
+						"h": 198
+					},
+					"frame": {
+						"x": 537,
+						"y": 1,
+						"w": 168,
+						"h": 198
+					}
+				},
+				{
+					"filename": "SMERALDO_00013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 2,
+						"w": 168,
+						"h": 198
+					},
+					"frame": {
+						"x": 533,
+						"y": 606,
+						"w": 168,
+						"h": 198
+					}
+				},
+				{
+					"filename": "SMERALDO_00018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 2,
+						"w": 168,
+						"h": 198
+					},
+					"frame": {
+						"x": 703,
+						"y": 606,
+						"w": 168,
+						"h": 198
+					}
+				},
+				{
+					"filename": "SMERALDO_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 3,
+						"w": 168,
+						"h": 196
+					},
+					"frame": {
+						"x": 1,
+						"y": 607,
+						"w": 168,
+						"h": 196
+					}
+				},
+				{
+					"filename": "SMERALDO_00024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 3,
+						"w": 168,
+						"h": 196
+					},
+					"frame": {
+						"x": 171,
+						"y": 607,
+						"w": 168,
+						"h": 196
+					}
+				},
+				{
+					"filename": "SMERALDO_00012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 4,
+						"w": 164,
+						"h": 194
+					},
+					"frame": {
+						"x": 341,
+						"y": 607,
+						"w": 164,
+						"h": 194
+					}
+				},
+				{
+					"filename": "SMERALDO_00023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 5,
+						"w": 165,
+						"h": 192
+					},
+					"frame": {
+						"x": 341,
+						"y": 803,
+						"w": 165,
+						"h": 192
+					}
+				},
+				{
+					"filename": "SMERALDO_00022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 6,
+						"w": 162,
+						"h": 190
+					},
+					"frame": {
+						"x": 1,
+						"y": 805,
+						"w": 162,
+						"h": 190
+					}
+				},
+				{
+					"filename": "SMERALDO_00011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 7,
+						"w": 160,
+						"h": 188
+					},
+					"frame": {
+						"x": 165,
+						"y": 805,
+						"w": 160,
+						"h": 188
+					}
+				},
+				{
+					"filename": "SMERALDO_00021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 8,
+						"w": 160,
+						"h": 187
+					},
+					"frame": {
+						"x": 508,
+						"y": 806,
+						"w": 160,
+						"h": 187
+					}
+				},
+				{
+					"filename": "SMERALDO_00010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 9,
+						"w": 157,
+						"h": 184
+					},
+					"frame": {
+						"x": 670,
+						"y": 806,
+						"w": 157,
+						"h": 184
+					}
+				},
+				{
+					"filename": "SMERALDO_00009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 6,
+						"w": 162,
+						"h": 191
+					},
+					"frame": {
+						"x": 707,
+						"y": 1,
+						"w": 162,
+						"h": 191
+					}
+				},
+				{
+					"filename": "SMERALDO_00019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 6,
+						"w": 162,
+						"h": 191
+					},
+					"frame": {
+						"x": 707,
+						"y": 194,
+						"w": 162,
+						"h": 191
+					}
+				},
+				{
+					"filename": "SMERALDO_00020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 9,
+						"w": 157,
+						"h": 184
+					},
+					"frame": {
+						"x": 707,
+						"y": 387,
+						"w": 157,
+						"h": 184
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7358394dd4829a6aa94e166c0e6797ce:13a066fd62b7c24e3adf67618c1b1a4f:e35db70b72347542e0062905fe8f312a$"
+	}
+}

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SlotMachine</title>
+    <script src="phaser.js"></script>
+
+    <script>
+        var config = {
+                type: Phaser.AUTO,
+                width: '800',
+                height: '600',
+                scene: {
+                    preload: preload,
+                    create: create,
+                },
+                scale: {
+                    mode: Phaser.Scale.RESIZE,
+                    parent: 'phaser-example',
+                    width: '800',
+                    height: '600'
+                },
+            };
+
+            var group;
+            
+            var game = new Phaser.Game(config);
+            
+            function preload() {
+                this.load.image('background', './assets/background/jewel_bkg.png');
+                this.load.image('game_area', './assets/background/jewel_game_area.png');
+
+                this.load.spritesheet('gems', 'assets/symbols/symbols.png', { frameWidth: 220, frameHeight: 220});
+            }
+            
+            
+            function create() {
+                
+                this.background = this.add.tileSprite(0, 0, this.scale.width, this.scale.height, 'background').setOrigin(0);
+                this.game_area = this.add.sprite(this.scale.width / 2, 520, 'game_area').setScale(0.7);
+
+                var group = this.make.group({
+                    key: 'gems',
+                    frame: Phaser.Utils.Array.NumberArray(0, 14),
+                    randomFrame: true,
+                    gridAlign: {
+                        x: 635,
+                        y: 390,
+                        width: 5,
+                        height: 3,
+                        cellWidth: 140,
+                        cellHeight: 110
+                    },
+                    setScale: { x: 0.5, y: 0.5}
+                });
+
+                let startgame = this.add.text(900, 810, 'START', { fill: '#0f0' });
+                startgame.setInteractive().setScale(2)
+                .on('pointerdown', () => gamewillstart() );
+            }
+
+            function gamewillstart() {
+                alert('game running... this button dont do nothing yet');
+            }
+            
+            function update() {
+             
+            }
+
+            function resize (gameSize, baseSize, displaySize, resolution)
+            {
+                var width = gameSize.width;
+                var height = gameSize.height;
+
+                this.cameras.resize(width, height);
+
+                this.background.setSize(width, height);
+                this.game_area.setPosition(width / 2, height / 2);
+            }
+    </script>
+</head>
+<body>
+    <div id="phaser-exemple"></div>
+</body>
+</html>

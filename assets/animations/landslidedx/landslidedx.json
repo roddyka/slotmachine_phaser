@@ -1,0 +1,1376 @@
+{
+	"textures": [
+		{
+			"image": "landslidedx-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2042
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "frana free spin dx_00043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 351,
+						"w": 660,
+						"h": 881
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 660,
+						"h": 881
+					}
+				},
+				{
+					"filename": "frana free spin dx_00038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 192,
+						"w": 515,
+						"h": 1040
+					},
+					"frame": {
+						"x": 663,
+						"y": 1,
+						"w": 515,
+						"h": 1040
+					}
+				},
+				{
+					"filename": "frana free spin dx_00039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 222,
+						"w": 549,
+						"h": 1010
+					},
+					"frame": {
+						"x": 1,
+						"y": 884,
+						"w": 549,
+						"h": 1010
+					}
+				},
+				{
+					"filename": "frana free spin dx_00044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 386,
+						"w": 660,
+						"h": 846
+					},
+					"frame": {
+						"x": 552,
+						"y": 1043,
+						"w": 660,
+						"h": 846
+					}
+				},
+				{
+					"filename": "frana free spin dx_00000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 552,
+						"y": 884,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "frana free spin dx_00001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 552,
+						"y": 884,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "frana free spin dx_00042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 317,
+						"w": 651,
+						"h": 915
+					},
+					"frame": {
+						"x": 1180,
+						"y": 1,
+						"w": 651,
+						"h": 915
+					}
+				},
+				{
+					"filename": "frana free spin dx_00041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 284,
+						"w": 620,
+						"h": 948
+					},
+					"frame": {
+						"x": 1214,
+						"y": 918,
+						"w": 620,
+						"h": 948
+					}
+				},
+				{
+					"filename": "frana free spin dx_00061.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 190,
+						"y": 1072,
+						"w": 470,
+						"h": 160
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1868,
+						"w": 470,
+						"h": 160
+					}
+				},
+				{
+					"filename": "frana free spin dx_00009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 455,
+						"y": 0,
+						"w": 205,
+						"h": 173
+					},
+					"frame": {
+						"x": 1686,
+						"y": 1868,
+						"w": 205,
+						"h": 173
+					}
+				},
+				{
+					"filename": "frana free spin dx_00062.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 207,
+						"y": 1117,
+						"w": 453,
+						"h": 115
+					},
+					"frame": {
+						"x": 552,
+						"y": 1891,
+						"w": 453,
+						"h": 115
+					}
+				},
+				{
+					"filename": "frana free spin dx_00008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 456,
+						"y": 0,
+						"w": 204,
+						"h": 149
+					},
+					"frame": {
+						"x": 1007,
+						"y": 1891,
+						"w": 204,
+						"h": 149
+					}
+				},
+				{
+					"filename": "frana free spin dx_00007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 458,
+						"y": 0,
+						"w": 202,
+						"h": 127
+					},
+					"frame": {
+						"x": 1,
+						"y": 1896,
+						"w": 202,
+						"h": 127
+					}
+				},
+				{
+					"filename": "frana free spin dx_00006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 459,
+						"y": 0,
+						"w": 201,
+						"h": 106
+					},
+					"frame": {
+						"x": 205,
+						"y": 1896,
+						"w": 201,
+						"h": 106
+					}
+				},
+				{
+					"filename": "frana free spin dx_00016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 446,
+						"y": 0,
+						"w": 214,
+						"h": 385
+					},
+					"frame": {
+						"x": 1833,
+						"y": 1,
+						"w": 214,
+						"h": 385
+					}
+				},
+				{
+					"filename": "frana free spin dx_00015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 448,
+						"y": 0,
+						"w": 212,
+						"h": 351
+					},
+					"frame": {
+						"x": 1833,
+						"y": 388,
+						"w": 212,
+						"h": 351
+					}
+				},
+				{
+					"filename": "frana free spin dx_00005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 460,
+						"y": 0,
+						"w": 200,
+						"h": 88
+					},
+					"frame": {
+						"x": 1833,
+						"y": 741,
+						"w": 200,
+						"h": 88
+					}
+				},
+				{
+					"filename": "frana free spin dx_00004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 461,
+						"y": 0,
+						"w": 199,
+						"h": 73
+					},
+					"frame": {
+						"x": 1833,
+						"y": 831,
+						"w": 199,
+						"h": 73
+					}
+				},
+				{
+					"filename": "frana free spin dx_00014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 449,
+						"y": 0,
+						"w": 211,
+						"h": 318
+					},
+					"frame": {
+						"x": 1836,
+						"y": 906,
+						"w": 211,
+						"h": 318
+					}
+				},
+				{
+					"filename": "frana free spin dx_00013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 450,
+						"y": 0,
+						"w": 210,
+						"h": 286
+					},
+					"frame": {
+						"x": 1836,
+						"y": 1226,
+						"w": 210,
+						"h": 286
+					}
+				},
+				{
+					"filename": "frana free spin dx_00012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 451,
+						"y": 0,
+						"w": 209,
+						"h": 256
+					},
+					"frame": {
+						"x": 1836,
+						"y": 1514,
+						"w": 209,
+						"h": 256
+					}
+				},
+				{
+					"filename": "frana free spin dx_00003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 470,
+						"y": 0,
+						"w": 190,
+						"h": 60
+					},
+					"frame": {
+						"x": 1836,
+						"y": 1772,
+						"w": 190,
+						"h": 60
+					}
+				}
+			]
+		},
+		{
+			"image": "landslidedx-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2047,
+				"h": 2014
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "frana free spin dx_00045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 421,
+						"w": 660,
+						"h": 811
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 660,
+						"h": 811
+					}
+				},
+				{
+					"filename": "frana free spin dx_00040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 252,
+						"w": 586,
+						"h": 980
+					},
+					"frame": {
+						"x": 663,
+						"y": 1,
+						"w": 586,
+						"h": 980
+					}
+				},
+				{
+					"filename": "frana free spin dx_00037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 420,
+						"y": 163,
+						"w": 240,
+						"h": 1069
+					},
+					"frame": {
+						"x": 1,
+						"y": 814,
+						"w": 240,
+						"h": 1069
+					}
+				},
+				{
+					"filename": "frana free spin dx_00036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 421,
+						"y": 136,
+						"w": 239,
+						"h": 1081
+					},
+					"frame": {
+						"x": 243,
+						"y": 814,
+						"w": 239,
+						"h": 1081
+					}
+				},
+				{
+					"filename": "frana free spin dx_00002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 472,
+						"y": 0,
+						"w": 188,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 1885,
+						"w": 188,
+						"h": 49
+					}
+				},
+				{
+					"filename": "frana free spin dx_00046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 458,
+						"w": 660,
+						"h": 774
+					},
+					"frame": {
+						"x": 484,
+						"y": 983,
+						"w": 660,
+						"h": 774
+					}
+				},
+				{
+					"filename": "frana free spin dx_00047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 495,
+						"w": 660,
+						"h": 737
+					},
+					"frame": {
+						"x": 1146,
+						"y": 983,
+						"w": 660,
+						"h": 737
+					}
+				},
+				{
+					"filename": "frana free spin dx_00048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 532,
+						"w": 660,
+						"h": 700
+					},
+					"frame": {
+						"x": 1251,
+						"y": 1,
+						"w": 660,
+						"h": 700
+					}
+				},
+				{
+					"filename": "frana free spin dx_00035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 422,
+						"y": 111,
+						"w": 238,
+						"h": 1060
+					},
+					"frame": {
+						"x": 1808,
+						"y": 703,
+						"w": 238,
+						"h": 1060
+					}
+				},
+				{
+					"filename": "frana free spin dx_00059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 189,
+						"y": 985,
+						"w": 471,
+						"h": 247
+					},
+					"frame": {
+						"x": 1251,
+						"y": 703,
+						"w": 471,
+						"h": 247
+					}
+				},
+				{
+					"filename": "frana free spin dx_00058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 189,
+						"y": 941,
+						"w": 471,
+						"h": 291
+					},
+					"frame": {
+						"x": 1146,
+						"y": 1722,
+						"w": 471,
+						"h": 291
+					}
+				},
+				{
+					"filename": "frana free spin dx_00060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 190,
+						"y": 1028,
+						"w": 470,
+						"h": 204
+					},
+					"frame": {
+						"x": 484,
+						"y": 1759,
+						"w": 470,
+						"h": 204
+					}
+				},
+				{
+					"filename": "frana free spin dx_00011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 453,
+						"y": 0,
+						"w": 207,
+						"h": 227
+					},
+					"frame": {
+						"x": 1619,
+						"y": 1765,
+						"w": 207,
+						"h": 227
+					}
+				},
+				{
+					"filename": "frana free spin dx_00010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 454,
+						"y": 0,
+						"w": 206,
+						"h": 199
+					},
+					"frame": {
+						"x": 1828,
+						"y": 1765,
+						"w": 206,
+						"h": 199
+					}
+				}
+			]
+		},
+		{
+			"image": "landslidedx-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2035,
+				"h": 1979
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "frana free spin dx_00049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 571,
+						"w": 660,
+						"h": 661
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 660,
+						"h": 661
+					}
+				},
+				{
+					"filename": "frana free spin dx_00050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 610,
+						"w": 660,
+						"h": 622
+					},
+					"frame": {
+						"x": 1,
+						"y": 664,
+						"w": 660,
+						"h": 622
+					}
+				},
+				{
+					"filename": "frana free spin dx_00034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 424,
+						"y": 87,
+						"w": 236,
+						"h": 1038
+					},
+					"frame": {
+						"x": 663,
+						"y": 1,
+						"w": 236,
+						"h": 1038
+					}
+				},
+				{
+					"filename": "frana free spin dx_00033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 425,
+						"y": 64,
+						"w": 235,
+						"h": 1015
+					},
+					"frame": {
+						"x": 901,
+						"y": 1,
+						"w": 235,
+						"h": 1015
+					}
+				},
+				{
+					"filename": "frana free spin dx_00051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 650,
+						"w": 660,
+						"h": 582
+					},
+					"frame": {
+						"x": 1,
+						"y": 1288,
+						"w": 660,
+						"h": 582
+					}
+				},
+				{
+					"filename": "frana free spin dx_00032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 426,
+						"y": 44,
+						"w": 234,
+						"h": 990
+					},
+					"frame": {
+						"x": 1138,
+						"y": 1,
+						"w": 234,
+						"h": 990
+					}
+				},
+				{
+					"filename": "frana free spin dx_00052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 690,
+						"w": 660,
+						"h": 542
+					},
+					"frame": {
+						"x": 1374,
+						"y": 1,
+						"w": 660,
+						"h": 542
+					}
+				},
+				{
+					"filename": "frana free spin dx_00054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 772,
+						"w": 660,
+						"h": 460
+					},
+					"frame": {
+						"x": 1374,
+						"y": 545,
+						"w": 660,
+						"h": 460
+					}
+				},
+				{
+					"filename": "frana free spin dx_00030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 429,
+						"y": 8,
+						"w": 231,
+						"h": 937
+					},
+					"frame": {
+						"x": 663,
+						"y": 1041,
+						"w": 231,
+						"h": 937
+					}
+				},
+				{
+					"filename": "frana free spin dx_00029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 430,
+						"y": 0,
+						"w": 230,
+						"h": 901
+					},
+					"frame": {
+						"x": 896,
+						"y": 1041,
+						"w": 230,
+						"h": 901
+					}
+				},
+				{
+					"filename": "frana free spin dx_00055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 813,
+						"w": 660,
+						"h": 419
+					},
+					"frame": {
+						"x": 1138,
+						"y": 1007,
+						"w": 660,
+						"h": 419
+					}
+				},
+				{
+					"filename": "frana free spin dx_00056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 856,
+						"w": 660,
+						"h": 376
+					},
+					"frame": {
+						"x": 1128,
+						"y": 1428,
+						"w": 660,
+						"h": 376
+					}
+				},
+				{
+					"filename": "frana free spin dx_00031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 427,
+						"y": 25,
+						"w": 233,
+						"h": 964
+					},
+					"frame": {
+						"x": 1800,
+						"y": 1007,
+						"w": 233,
+						"h": 964
+					}
+				}
+			]
+		},
+		{
+			"image": "landslidedx-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1346,
+				"h": 1854
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "frana free spin dx_00053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 730,
+						"w": 660,
+						"h": 502
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 660,
+						"h": 502
+					}
+				},
+				{
+					"filename": "frana free spin dx_00028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 431,
+						"y": 0,
+						"w": 229,
+						"h": 858
+					},
+					"frame": {
+						"x": 663,
+						"y": 1,
+						"w": 229,
+						"h": 858
+					}
+				},
+				{
+					"filename": "frana free spin dx_00027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 432,
+						"y": 0,
+						"w": 228,
+						"h": 815
+					},
+					"frame": {
+						"x": 1,
+						"y": 505,
+						"w": 228,
+						"h": 815
+					}
+				},
+				{
+					"filename": "frana free spin dx_00026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 434,
+						"y": 0,
+						"w": 226,
+						"h": 772
+					},
+					"frame": {
+						"x": 231,
+						"y": 505,
+						"w": 226,
+						"h": 772
+					}
+				},
+				{
+					"filename": "frana free spin dx_00057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 898,
+						"w": 660,
+						"h": 334
+					},
+					"frame": {
+						"x": 459,
+						"y": 861,
+						"w": 660,
+						"h": 334
+					}
+				},
+				{
+					"filename": "frana free spin dx_00025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 435,
+						"y": 0,
+						"w": 225,
+						"h": 730
+					},
+					"frame": {
+						"x": 894,
+						"y": 1,
+						"w": 225,
+						"h": 730
+					}
+				},
+				{
+					"filename": "frana free spin dx_00024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 436,
+						"y": 0,
+						"w": 224,
+						"h": 689
+					},
+					"frame": {
+						"x": 1121,
+						"y": 1,
+						"w": 224,
+						"h": 689
+					}
+				},
+				{
+					"filename": "frana free spin dx_00023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 437,
+						"y": 0,
+						"w": 223,
+						"h": 649
+					},
+					"frame": {
+						"x": 1121,
+						"y": 692,
+						"w": 223,
+						"h": 649
+					}
+				},
+				{
+					"filename": "frana free spin dx_00022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 439,
+						"y": 0,
+						"w": 221,
+						"h": 609
+					},
+					"frame": {
+						"x": 459,
+						"y": 1197,
+						"w": 221,
+						"h": 609
+					}
+				},
+				{
+					"filename": "frana free spin dx_00021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 440,
+						"y": 0,
+						"w": 220,
+						"h": 569
+					},
+					"frame": {
+						"x": 231,
+						"y": 1279,
+						"w": 220,
+						"h": 569
+					}
+				},
+				{
+					"filename": "frana free spin dx_00020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 441,
+						"y": 0,
+						"w": 219,
+						"h": 531
+					},
+					"frame": {
+						"x": 1,
+						"y": 1322,
+						"w": 219,
+						"h": 531
+					}
+				},
+				{
+					"filename": "frana free spin dx_00019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 443,
+						"y": 0,
+						"w": 217,
+						"h": 493
+					},
+					"frame": {
+						"x": 682,
+						"y": 1197,
+						"w": 217,
+						"h": 493
+					}
+				},
+				{
+					"filename": "frana free spin dx_00018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 444,
+						"y": 0,
+						"w": 216,
+						"h": 456
+					},
+					"frame": {
+						"x": 901,
+						"y": 1197,
+						"w": 216,
+						"h": 456
+					}
+				},
+				{
+					"filename": "frana free spin dx_00017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 1232
+					},
+					"spriteSourceSize": {
+						"x": 445,
+						"y": 0,
+						"w": 215,
+						"h": 420
+					},
+					"frame": {
+						"x": 1119,
+						"y": 1343,
+						"w": 215,
+						"h": 420
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:79430560edf9af57b507b59718f2a9f0:8eaa50626b915d6217eac0a00eac9757:f3533c6e7a3e95480e223342a75f6ed6$"
+	}
+}

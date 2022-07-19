@@ -1,0 +1,797 @@
+{
+	"textures": [
+		{
+			"image": "piramid-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 968,
+				"h": 1730
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "piramide win_00037.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 192,
+						"h": 232
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 192,
+						"h": 232
+					}
+				},
+				{
+					"filename": "piramide win_00038.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 192,
+						"h": 232
+					},
+					"frame": {
+						"x": 1,
+						"y": 235,
+						"w": 192,
+						"h": 232
+					}
+				},
+				{
+					"filename": "piramide win_00039.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 192,
+						"h": 232
+					},
+					"frame": {
+						"x": 195,
+						"y": 1,
+						"w": 192,
+						"h": 232
+					}
+				},
+				{
+					"filename": "piramide win_00040.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 192,
+						"h": 232
+					},
+					"frame": {
+						"x": 1,
+						"y": 469,
+						"w": 192,
+						"h": 232
+					}
+				},
+				{
+					"filename": "piramide win_00041.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 192,
+						"h": 232
+					},
+					"frame": {
+						"x": 195,
+						"y": 235,
+						"w": 192,
+						"h": 232
+					}
+				},
+				{
+					"filename": "piramide win_00042.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 192,
+						"h": 232
+					},
+					"frame": {
+						"x": 389,
+						"y": 1,
+						"w": 192,
+						"h": 232
+					}
+				},
+				{
+					"filename": "piramide win_00043.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 192,
+						"h": 232
+					},
+					"frame": {
+						"x": 1,
+						"y": 703,
+						"w": 192,
+						"h": 232
+					}
+				},
+				{
+					"filename": "piramide win_00044.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 192,
+						"h": 232
+					},
+					"frame": {
+						"x": 195,
+						"y": 469,
+						"w": 192,
+						"h": 232
+					}
+				},
+				{
+					"filename": "piramide win_00036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 192,
+						"h": 231
+					},
+					"frame": {
+						"x": 389,
+						"y": 235,
+						"w": 192,
+						"h": 231
+					}
+				},
+				{
+					"filename": "piramide win_00033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 191,
+						"h": 230
+					},
+					"frame": {
+						"x": 583,
+						"y": 1,
+						"w": 191,
+						"h": 230
+					}
+				},
+				{
+					"filename": "piramide win_00034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 191,
+						"h": 230
+					},
+					"frame": {
+						"x": 776,
+						"y": 1,
+						"w": 191,
+						"h": 230
+					}
+				},
+				{
+					"filename": "piramide win_00035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 13,
+						"w": 191,
+						"h": 230
+					},
+					"frame": {
+						"x": 1,
+						"y": 937,
+						"w": 191,
+						"h": 230
+					}
+				},
+				{
+					"filename": "piramide win_00032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 191,
+						"h": 229
+					},
+					"frame": {
+						"x": 195,
+						"y": 703,
+						"w": 191,
+						"h": 229
+					}
+				},
+				{
+					"filename": "piramide win_00031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 16,
+						"w": 191,
+						"h": 228
+					},
+					"frame": {
+						"x": 389,
+						"y": 468,
+						"w": 191,
+						"h": 228
+					}
+				},
+				{
+					"filename": "piramide win_00030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 16,
+						"w": 190,
+						"h": 229
+					},
+					"frame": {
+						"x": 583,
+						"y": 233,
+						"w": 190,
+						"h": 229
+					}
+				},
+				{
+					"filename": "piramide win_00045.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 192,
+						"h": 213
+					},
+					"frame": {
+						"x": 775,
+						"y": 233,
+						"w": 192,
+						"h": 213
+					}
+				},
+				{
+					"filename": "piramide win_00046.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 192,
+						"h": 213
+					},
+					"frame": {
+						"x": 775,
+						"y": 448,
+						"w": 192,
+						"h": 213
+					}
+				},
+				{
+					"filename": "piramide win_00029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 190,
+						"h": 228
+					},
+					"frame": {
+						"x": 1,
+						"y": 1169,
+						"w": 190,
+						"h": 228
+					}
+				},
+				{
+					"filename": "piramide win_00028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 190,
+						"h": 226
+					},
+					"frame": {
+						"x": 1,
+						"y": 1399,
+						"w": 190,
+						"h": 226
+					}
+				},
+				{
+					"filename": "piramide win_00056.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 33,
+						"w": 191,
+						"h": 211
+					},
+					"frame": {
+						"x": 582,
+						"y": 468,
+						"w": 191,
+						"h": 211
+					}
+				},
+				{
+					"filename": "piramide win_00047.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 192,
+						"h": 213
+					},
+					"frame": {
+						"x": 775,
+						"y": 663,
+						"w": 192,
+						"h": 213
+					}
+				},
+				{
+					"filename": "piramide win_00057.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 191,
+						"h": 209
+					},
+					"frame": {
+						"x": 582,
+						"y": 681,
+						"w": 191,
+						"h": 209
+					}
+				},
+				{
+					"filename": "piramide win_00048.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 192,
+						"h": 213
+					},
+					"frame": {
+						"x": 775,
+						"y": 878,
+						"w": 192,
+						"h": 213
+					}
+				},
+				{
+					"filename": "piramide win_00049.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 192,
+						"h": 213
+					},
+					"frame": {
+						"x": 388,
+						"y": 703,
+						"w": 192,
+						"h": 213
+					}
+				},
+				{
+					"filename": "piramide win_00059.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 41,
+						"w": 190,
+						"h": 204
+					},
+					"frame": {
+						"x": 582,
+						"y": 892,
+						"w": 190,
+						"h": 204
+					}
+				},
+				{
+					"filename": "piramide win_00050.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 192,
+						"h": 213
+					},
+					"frame": {
+						"x": 388,
+						"y": 918,
+						"w": 192,
+						"h": 213
+					}
+				},
+				{
+					"filename": "piramide win_00051.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 192,
+						"h": 213
+					},
+					"frame": {
+						"x": 194,
+						"y": 937,
+						"w": 192,
+						"h": 213
+					}
+				},
+				{
+					"filename": "piramide win_00026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 41,
+						"w": 190,
+						"h": 205
+					},
+					"frame": {
+						"x": 582,
+						"y": 1098,
+						"w": 190,
+						"h": 205
+					}
+				},
+				{
+					"filename": "piramide win_00052.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 192,
+						"h": 213
+					},
+					"frame": {
+						"x": 774,
+						"y": 1093,
+						"w": 192,
+						"h": 213
+					}
+				},
+				{
+					"filename": "piramide win_00053.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 192,
+						"h": 213
+					},
+					"frame": {
+						"x": 388,
+						"y": 1133,
+						"w": 192,
+						"h": 213
+					}
+				},
+				{
+					"filename": "piramide win_00054.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 192,
+						"h": 213
+					},
+					"frame": {
+						"x": 194,
+						"y": 1152,
+						"w": 192,
+						"h": 213
+					}
+				},
+				{
+					"filename": "piramide win_00055.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 192,
+						"h": 213
+					},
+					"frame": {
+						"x": 193,
+						"y": 1367,
+						"w": 192,
+						"h": 213
+					}
+				},
+				{
+					"filename": "piramide win_00058.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 38,
+						"w": 190,
+						"h": 207
+					},
+					"frame": {
+						"x": 582,
+						"y": 1305,
+						"w": 190,
+						"h": 207
+					}
+				},
+				{
+					"filename": "piramide win_00027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 30,
+						"w": 190,
+						"h": 215
+					},
+					"frame": {
+						"x": 774,
+						"y": 1308,
+						"w": 190,
+						"h": 215
+					}
+				},
+				{
+					"filename": "piramide win_00024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 43,
+						"w": 189,
+						"h": 203
+					},
+					"frame": {
+						"x": 388,
+						"y": 1348,
+						"w": 189,
+						"h": 203
+					}
+				},
+				{
+					"filename": "piramide win_00060.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 43,
+						"w": 189,
+						"h": 203
+					},
+					"frame": {
+						"x": 579,
+						"y": 1514,
+						"w": 189,
+						"h": 203
+					}
+				},
+				{
+					"filename": "piramide win_00025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 42,
+						"w": 189,
+						"h": 204
+					},
+					"frame": {
+						"x": 770,
+						"y": 1525,
+						"w": 189,
+						"h": 204
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:26fe7c9c0dd2ca7201ee61f528199f33:404cfe8877980f51e3da995395340d48:7fcae43c74130d17249db6e6094b1816$"
+	}
+}
