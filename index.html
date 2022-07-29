@@ -10,38 +10,52 @@
     <script>
         var config = {
                 type: Phaser.AUTO,
-                width: '800',
-                height: '600',
+                width: '500',
+                height: '500',
                 scene: {
                     preload: preload,
                     create: create,
+                    update: Update
                 },
                 scale: {
                     mode: Phaser.Scale.RESIZE,
                     parent: 'phaser-example',
-                    width: '800',
-                    height: '600'
+                    width: '500',
+                    height: '500'
                 },
             };
 
             var group;
+            let running = false;
+            let startgame;
+            let status;
             
             var game = new Phaser.Game(config);
             
             function preload() {
                 this.load.image('background', './assets/background/jewel_bkg.png');
                 this.load.image('game_area', './assets/background/jewel_game_area.png');
+                this.load.image('bg', './assets/background/jewel_all_bkg.png');
+
+                this.load.image('0_blur', './assets/symbols/blur/0.png');
+                this.load.image('1_blur', './assets/symbols/blur/1.png');
+                this.load.image('2_blur', './assets/symbols/blur/2.png');
+                this.load.image('3_blur', './assets/symbols/blur/3.png');
+                this.load.image('4_blur', './assets/symbols/blur/4.png');
 
                 this.load.spritesheet('gems', 'assets/symbols/symbols.png', { frameWidth: 220, frameHeight: 220});
+                this.load.spritesheet('blur', 'assets/symbols/blur/blur.png', { frameWidth: 220, frameHeight: 220});
             }
             
             
             function create() {
-                
+                console.log(running);
                 this.background = this.add.tileSprite(0, 0, this.scale.width, this.scale.height, 'background').setOrigin(0);
-                this.game_area = this.add.sprite(this.scale.width / 2, 520, 'game_area').setScale(0.7);
+                let game_area = this.add.sprite(this.scale.width / 2, 520, 'game_area').setScale(0.7);
+                
+                // this.bg = this.add.sprite(800, 600, 'bg').setScale(0.8);
 
-                var group = this.make.group({
+                group = this.make.group({
                     key: 'gems',
                     frame: Phaser.Utils.Array.NumberArray(0, 14),
                     randomFrame: true,
@@ -56,18 +70,26 @@
                     setScale: { x: 0.5, y: 0.5}
                 });
 
-                let startgame = this.add.text(900, 810, 'START', { fill: '#0f0' });
+                // let mask_area = this.add.sprite(this.scale.width / 2, 520, 'game_area').setScale(0.7).setVisible(false);
+                // var mask = mask_area.createBitmapMask();
+                // game_area.setMask(mask); 
+                
+
+                startgame = this.add.text(900, 810, 'START', { fill: '#0f0' });
                 startgame.setInteractive().setScale(2)
-                .on('pointerdown', () => gamewillstart() );
+                .on('pointerdown', () => gamewillstart(group));
             }
 
-            function gamewillstart() {
-                alert('game running... this button dont do nothing yet');
+            function gamewillstart(group) {
+                if(!status){
+                    running = true;
+                    startgame.setTint(0xFF00FF);
+                    status = true;
+                    // alert("Running");
+                    run_all_gems(status, group);
+                }
             }
-            
-            function update() {
-             
-            }
+        
 
             function resize (gameSize, baseSize, displaySize, resolution)
             {
@@ -78,6 +100,54 @@
 
                 this.background.setSize(width, height);
                 this.game_area.setPosition(width / 2, height / 2);
+            }
+
+            function run_all_gems(status, group){
+                console.log(group)
+                // console.log(group.children.entries);
+                // console.log(group[2]);
+                group.children.iterate((child) => {
+                    // console.log(child);
+                    // child.setTexture('blur');
+                    if (child.frame.name == 0){
+                        child.setTexture('0_blur');
+                    }
+
+                    if (child.frame.name == 1){
+                        child.setTexture('1_blur');
+                    }
+
+                    if (child.frame.name == 2){
+                        child.setTexture('2_blur');
+                    }
+
+                    if (child.frame.name == 3){
+                        child.setTexture('3_blur');
+                    }
+
+                    if (child.frame.name == 4){
+                        child.setTexture('4_blur');
+                    }
+
+                    if (child.frame.name == 5){
+                        child.setTexture('5_blur');
+                    }
+                });
+
+            }
+
+            function Update() {
+              if(status){
+                // console.log('yes');
+                // console.log(group.getLength());
+                // group.incY(2);
+                // console.log(group)
+                this.tweens.add({
+                targets: group.getChildren(),
+                y: '+=200',
+                duration: 2000
+            });
+              }
             }
     </script>
 </head>
